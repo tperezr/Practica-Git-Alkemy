@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 07
 
 "7 es el numero de la suerte"
+=======
+05
+>>>>>>> d44c6725acda47fccecdc65500ea6af233a5335d
+
+
+05 || 07
